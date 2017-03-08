@@ -1,2 +1,3 @@
 # hello-world
-test repository
+Hi everyone
+I'm just learning to use Github
